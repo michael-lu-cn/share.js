@@ -1,0 +1,23 @@
+{
+  "name": "camp-admin",
+  "description": "Description",
+  "author": "michael-lu",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch --server"
+  },
+  "dependencies": {
+    "auto-reload-brunch": ">= 1.0 < 1.9",
+    "clean-css-brunch": ">= 1.0 < 1.9",
+    "coffee-script-brunch": "^1.8.3",
+    "css-brunch": ">= 1.0 < 1.9",
+    "javascript-brunch": ">= 1.0 < 1.9",
+    "stylus": "^0.53.0",
+    "stylus-brunch": "^1.8.1",
+    "uglify-js-brunch": ">= 1.0 < 1.9"
+  }
+}

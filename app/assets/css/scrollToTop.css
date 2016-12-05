@@ -1,0 +1,12 @@
+.abc {
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 50px;
+    right: 100px;
+    display: none;
+    z-index: 100;
+    /* text-indent: -9999px; */
+    /* background: url('icon_top.png') no-repeat; */
+    /* background-color: #000; */
+}

@@ -1,0 +1,3 @@
+module.exports =
+
+{"user_id":10390504,"name":"馒头的美梦a","create_time":1442454957,"update_time":1465658261,"account":null,"gender":"female","description":"赣南师范学院美院","avatar":"0d9ce2a0604a11e5aa9799840f55dd43","birthday":"1994-5-1","height":163,"weight":61,"location":null,"is_verified":0,"is_blocked":0,"has_article_permission":0,"is_pinned":0,"is_selected":0,"training_purpose":"reduceFat","appliance_condition":"none","level":"junior","workout_level":1,"workout_purpose":1,"workout_frequency":0,"body_shape":null,"body_fat":null,"badge":[""],"avatar_url":"http://source.rjfittime.com/0d9ce2a0604a11e5aa9799840f55dd43"}

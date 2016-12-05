@@ -1,0 +1,5 @@
+class Page extends Block
+  build: ->
+    P.div().C("note")
+
+module.exports = new Page()

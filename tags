@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Łukasz Korecki	/lukasz@korecki.me/
+!_TAG_PROGRAM_NAME	CoffeeTags	//
+!_TAG_PROGRAM_URL	https://github.com/lukaszkorecki/CoffeeTags	/GitHub repository/
+!_TAG_PROGRAM_VERSION	0.6.0	//
+@input	app/frame/nav.coffee	/^              @input = P.input('form-control').type('text').placeholder('user id').onkeyup (e)=>$/;"	f	line:36	language:coffee	object:Page.build.@collapse.@items
+@input	app/share/frame/nav.coffee	/^              @input = P.input('form-control').type('text').placeholder('user id').onkeyup (e)=>$/;"	f	line:38	language:coffee	object:Page.build.@collapse.@items
+Page	app/frame/nav.coffee	/^class Page extends Block$/;"	c	line:5	language:coffee
+Page	app/share/frame/nav.coffee	/^class Page extends Block$/;"	c	line:5	language:coffee
+RouterClass	app/share/router.coffee	/^class RouterClass extends Quite$/;"	c	line:8	language:coffee
+build	app/frame/nav.coffee	/^  build: =>$/;"	p	line:12	language:coffee	object:Page
+build	app/share/frame/nav.coffee	/^  build: =>$/;"	p	line:12	language:coffee	object:Page
+change	app/share/router.coffee	/^  change: =>$/;"	p	line:41	language:coffee	object:RouterClass
+changePage	app/share/router.coffee	/^  changePage: =>$/;"	p	line:18	language:coffee	object:RouterClass
+changeParam	app/share/router.coffee	/^  changeParam: =>$/;"	p	line:39	language:coffee	object:RouterClass
+changeParams	app/share/router.coffee	/^  changeParams: =>$/;"	p	line:35	language:coffee	object:RouterClass
+constructor	app/frame/nav.coffee	/^  constructor: ->$/;"	p	line:6	language:coffee	object:Page
+constructor	app/share/frame/nav.coffee	/^  constructor: ->$/;"	p	line:6	language:coffee	object:Page
+constructor	app/share/router.coffee	/^  constructor: ->$/;"	p	line:9	language:coffee	object:RouterClass
+if 	app/frame/nav.coffee	/^                  if not @input.value()$/;"	b	line:38	language:coffee
+if 	app/frame/nav.coffee	/^                if e.which is 13$/;"	b	line:37	language:coffee
+if 	app/frame/nav.coffee	/^              if not @input.value()$/;"	b	line:45	language:coffee
+if 	app/share/frame/nav.coffee	/^                  if not @input.value()$/;"	b	line:40	language:coffee
+if 	app/share/frame/nav.coffee	/^                if e.which is 13$/;"	b	line:39	language:coffee
+if 	app/share/frame/nav.coffee	/^                if toggleButton.attr("aria-expanded") is "true"$/;"	b	line:33	language:coffee
+if 	app/share/frame/nav.coffee	/^              if not @input.value()$/;"	b	line:47	language:coffee
+if 	app/share/router.coffee	/^    if not @currentHash()$/;"	b	line:44	language:coffee
+if 	app/share/router.coffee	/^    if not @hash()$/;"	b	line:42	language:coffee
+if 	app/share/router.coffee	/^    if page.onload$/;"	b	line:31	language:coffee
+items	app/frame/nav.coffee	/^items = $/;"	o	line:1	language:coffee	object:window
+items	app/share/frame/nav.coffee	/^items = $/;"	o	line:1	language:coffee	object:window
+onhashchange	app/share/router.coffee	/^window.onhashchange = =>$/;"	f	line:54	language:coffee	object:window
+onload	app/share/index.coffee	/^window.onload = ->$/;"	f	line:9	language:coffee	object:window
