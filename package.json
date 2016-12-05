@@ -15,6 +15,7 @@
     "clean-css-brunch": ">= 1.0 < 1.9",
     "coffee-script-brunch": "^1.8.3",
     "css-brunch": ">= 1.0 < 1.9",
+    "digest-brunch": "^1.6.0",
     "javascript-brunch": ">= 1.0 < 1.9",
     "stylus": "^0.53.0",
     "stylus-brunch": "^1.8.1",
